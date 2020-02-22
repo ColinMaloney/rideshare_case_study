@@ -9,6 +9,6 @@ Steps taken to run model.
 4. Run Random Forest and hypertune parameters with cross fold. 
 5. Received Out of Bag Score of .8138
 6. Pull out features that affected the Random Forest the most.
-7. Give ideas on how we could keep the turnover lower.
+7. Give ideas on how we could keep the churn lower.
 
 ## Please see presentation in PDF form for more information. 
